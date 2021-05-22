@@ -1,0 +1,5 @@
+rootProject.name = "experimental-brewing"
+
+includeBuild("spigot-utils")
+include(":api")
+include(":core")
